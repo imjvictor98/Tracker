@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="desc_logo_iot">Logo do iot4Decision</string>
+    <string name="desc_logo_tracker">Logo do App Tracker</string>
+    <string name="txt_welcome">Bem vindo ao Tracker</string>
+    <string name="txt_config_permissions">Configuração de permissões do aplicativo</string>
+    <string name="txt_serial_number">Identificação do dispositivo (Serial Number)</string>
+    <string name="txt_gps_use">Uso do GPS</string>
+    <string name="desc_logo_first_decision">Logo da first decision</string>
+    <string name="txt_bluetooth_use">Uso do Bluetooth</string>
+    <string name="title_about">Sobre</string>
+    <string name="score_format">Current Score: %d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

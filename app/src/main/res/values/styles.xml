@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorBluePrimary</item>
+        <item name="colorPrimaryDark">@color/colorBlackPrimary</item>
+        <item name="colorAccent">@color/colorBluePrimary</item>
+        <item name="fontFamily">@font/avenir_ltsd_book</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="android:windowSoftInputMode">stateHidden</item>
+    </style>
+
+    <style name="Divider">
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/colorDivider</item>
+        <item name="android:layout_margin">30dp</item>
+    </style>
+
+    <!-- Text -->
+    <style name="TitleWhite">
+        <item name="fontFamily">@font/avenir_roman</item>
+        <item name="android:textColor">@color/colorWhitePrimary</item>
+    </style>
+
+    <style name="TextViewBold">
+        <item name="fontFamily">@font/avenir_ltsd</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorBlackPrimary</item>
+    </style>
+
+    <style name="TextViewRegular">
+        <item name="fontFamily">@font/avenir_roman</item>
+        <item name="android:textColor">@color/colorBlackPrimary</item>
+    </style>
+
+    <style name="EditText">
+        <item name="android:ems">10</item>
+        <item name="android:textColor">@color/colorBluePrimary</item>
+        <item name="fontFamily">@font/avenir_ltsd</item>
+        <item name="color">@color/colorBluePrimary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>
